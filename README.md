@@ -13,7 +13,7 @@ Quick facts:
 
 Snapshot:
 
-- 💻 My favourite open source project is **[i3-blocks](https://github.com/vivien/i3blocks)**
+- 💻 My current favourite open source project is **[i3-blocks](https://github.com/vivien/i3blocks)**
 - 🌱 I’m currently learning: **Advanced MongoDB**, **Theoretical Methods in Statistical Physics**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
