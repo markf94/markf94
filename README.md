@@ -1,6 +1,6 @@
 ### Welcome, human 👋
 
-I'm a theoretical physicist by training and entrepreneur & Pythonista by choice. I co-founded the Toronto-based biotech startup [ProteinQure](https://proteinqure.com) where we built one of the world's first computational platforms for protein therapeutics (think 3D CAD for molecules). Nowadays, I spent most of my time building a molecular database with [mongoengine](https://github.com/MongoEngine/mongoengine), petascale drug discovery workflows using [Argo](https://github.com/argoproj/argo-workflows), multi-property optimization algorithms using [deap](https://github.com/DEAP/deap) as well as [PennyLane](https://github.com/PennyLaneAI/pennylane) and [TensorFlow Quantum](https://github.com/tensorflow/quantum) for quantum-classical hybrid networks.
+I'm a theoretical physicist by training and entrepreneur & Pythonista by choice. I co-founded the Toronto-based biotech startup [ProteinQure](https://proteinqure.com) where we built one of the world's first computational platforms for protein therapeutics (think 3D CAD for molecules). Nowadays, I spent most of my time building a molecular database with [mongoengine](https://github.com/MongoEngine/mongoengine), petascale drug discovery workflows using [Argo](https://github.com/argoproj/argo-workflows), multi-property optimization algorithms using [deap](https://github.com/DEAP/deap) as well as quantum-classical hybrid networks with [PennyLane](https://github.com/PennyLaneAI/pennylane) and [TensorFlow Quantum](https://github.com/tensorflow/quantum).
 
 Quick facts:
 
