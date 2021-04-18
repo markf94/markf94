@@ -13,7 +13,7 @@ Quick facts:
 
 Snapshot:
 
-- 💻 My current favourite open source project is **[i3-blocks](https://github.com/vivien/i3blocks)**
+- 💻 My current favourite open source project is **[the repo publishing the reverse-engineered COVID vaccine RNA sequences](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)**
 - 🌱 I’m currently learning: **Advanced MongoDB**, **Theoretical Methods in Statistical Physics**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
