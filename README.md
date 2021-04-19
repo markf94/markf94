@@ -1,12 +1,13 @@
-### Welcome, human 👋
+### Welcome, human! I'm Mark 👋
+
+![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
+![Nationality](https://img.shields.io/badge/Nationality-German-gold)
+![Location](https://img.shields.io/badge/Location-Toronto%2C%20Canada-red)
 
 I'm a theoretical physicist by training and entrepreneur & pythonista by choice. I co-founded the Toronto-based biotech startup [ProteinQure](https://proteinqure.com) where we built one of the world's first computational platforms for protein therapeutics (think 3D CAD for molecules) and the [Quantum Open Source Foundation](https://qosf.org). Nowadays, I spent most of my time building a molecular database with [mongoengine](https://github.com/MongoEngine/mongoengine), petascale drug discovery workflows using [Argo](https://github.com/argoproj/argo-workflows), multi-property optimization algorithms using [deap](https://github.com/DEAP/deap) as well as quantum-classical hybrid networks with [PennyLane](https://github.com/PennyLaneAI/pennylane) and [TensorFlow Quantum](https://github.com/tensorflow/quantum).
 
 Quick facts:
 
-- ♂️ Pronouns: **he/him**
-- 🇩🇪 Nationality: **German**
-- 📍 Location: **Toronto, Canada**
 - 💬 Ask me about **Python, quantum computing, open source software, 3D printing and my many hobbies**
 - 📫 Talk to me **on the [QOSF Slack channel](https://qosf.org/join)**
 - ⚡ Fun fact: **I like surfing the Great Lakes in the middle of winter.**
@@ -20,3 +21,5 @@ Snapshot:
 - 🖨️ I’m currently 3D printing **plant pots**
 - 🎮 I’m currently playing **Beat Saber VR**
 - 🚐 I’m currently **converting my van to a camper**
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)
