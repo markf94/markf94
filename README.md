@@ -22,4 +22,4 @@ Snapshot:
 - 🎮 I’m currently playing **Beat Saber VR**
 - 🚐 I’m currently **converting my van to a camper**
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
