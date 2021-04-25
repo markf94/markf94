@@ -1,8 +1,8 @@
 ### Welcome, human! I'm Mark 👋
 
-![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
-![Nationality](https://img.shields.io/badge/Nationality-German-gold)
-![Location](https://img.shields.io/badge/Location-Toronto%2C%20Canada-red)
+[![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)](https://uwm.edu/lgbtrc/support/gender-pronouns/)
+[![Nationality](https://img.shields.io/badge/Nationality-German-gold)](https://goo.gl/maps/PENwf1CozT6TpnBW6)
+[![Location](https://img.shields.io/badge/Location-Toronto%2C%20Canada-red)](https://goo.gl/maps/oX2GBATc4ev1mgLT6)
 
 I'm a theoretical physicist by training and entrepreneur & pythonista by choice. I co-founded the Toronto-based biotech startup [ProteinQure](https://proteinqure.com) where we built one of the world's first computational platforms for protein therapeutics (think 3D CAD for molecules) and the [Quantum Open Source Foundation](https://qosf.org). Nowadays, I spent most of my time building a molecular database with [mongoengine](https://github.com/MongoEngine/mongoengine), petascale drug discovery workflows using [Argo](https://github.com/argoproj/argo-workflows), multi-property optimization algorithms using [deap](https://github.com/DEAP/deap) as well as quantum-classical hybrid networks with [PennyLane](https://github.com/PennyLaneAI/pennylane) and [TensorFlow Quantum](https://github.com/tensorflow/quantum).
 
