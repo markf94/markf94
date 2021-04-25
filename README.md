@@ -19,7 +19,7 @@ Snapshot:
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
 - 🖨️ I’m currently 3D printing **plant pots**
-- 🎮 I’m currently playing **Beat Saber VR**
+- 🎮 I’m currently playing **The Climb 2 VR**
 - 🚐 I’m currently **converting my van to a camper**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
