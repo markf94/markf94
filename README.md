@@ -20,7 +20,7 @@ Snapshot:
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
 - ⌨️ My work setup consists of: [**Moonlander MK 1 split keyboard**](https://www.zsa.io/moonlander/) & [**Kensington SlimBlade Trackball**](https://www.kensington.com/en-ca/p/products/control/trackballs/slimblade-trackball/)
 - 🖨️ I’m currently 3D printing **plant pots**
-- 🎮 I’m currently playing **The Climb 2 VR**
-- 🚐 I’m currently **converting my van to a camper**
+- 🎮 I’m currently playing **Half-Life: Alyx VR**
+- 🚐 I’m currently **climbing frozen waterfalls in Canada**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
