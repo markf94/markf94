@@ -15,7 +15,7 @@ Quick facts:
 Snapshot:
 
 - 💻 My current favourite open source project is **[VCVRack - A virtual modular Eurorack synthesizer](https://github.com/VCVRack/Rack)**
-- 🌱 I’m currently learning: **Modular synthesis**, **Ice lead climbing**, **Colemak-DHm**
+- 🌱 I’m currently learning: **modular synthesis**, **ice lead climbing**, **Colemak-DHm**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
 - ⌨️ My work setup consists of: [**Moonlander MK 1 split keyboard**](https://www.zsa.io/moonlander/) & [**Kensington SlimBlade Trackball**](https://www.kensington.com/en-ca/p/products/control/trackballs/slimblade-trackball/)
