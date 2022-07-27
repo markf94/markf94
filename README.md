@@ -15,12 +15,12 @@ Quick facts:
 Snapshot:
 
 - 💻 My current favourite open source project is **[VCVRack - A virtual modular Eurorack synthesizer](https://github.com/VCVRack/Rack)**
-- 🌱 I’m currently learning: **modular synthesis**, **ice lead climbing**, **Colemak-DHm**
+- 🌱 I’m currently learning: **woodworking**, **highlining**, **Colemak-DHm**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
 - ⌨️ My work setup consists of: [**Moonlander MK 1 split keyboard**](https://www.zsa.io/moonlander/) & [**Kensington SlimBlade Trackball**](https://www.kensington.com/en-ca/p/products/control/trackballs/slimblade-trackball/)
 - 🖨️ I’m currently 3D printing **knobs and stands for the Teenage Engineering OP-Z**
-- 🎮 I’m currently playing **Half-Life: Alyx VR**
-- 🚐 I’m currently **climbing frozen waterfalls in Canada**
+- 🎮 I’m currently playing **nothing**
+- 🚐 I’m currently **climbing a lot outdoors** and **partying at various electronic music festivals**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
