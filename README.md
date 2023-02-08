@@ -10,17 +10,17 @@ Quick facts:
 
 - 💬 Ask me about **Python, quantum computing, open source software, 3D printing and my many hobbies**
 - 📫 Talk to me **on the [QOSF Slack channel](https://qosf.org/join)**
-- ⚡ Fun fact: **I like surfing the Great Lakes in the middle of winter.**
+- ⚡ Fun fact: **I like climbing frozen waterfalls in the middle of winter.**
 
 Snapshot:
 
 - 💻 My current favourite open source project is **[VCVRack - A virtual modular Eurorack synthesizer](https://github.com/VCVRack/Rack)**
-- 🌱 I’m currently learning: **woodworking**, **highlining**, **Colemak-DHm**
+- 🌱 I’m currently learning: **Colemak-DHm**, **highlining**, **Vietnamese**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
 - ⌨️ My work setup consists of: [**Moonlander MK 1 split keyboard**](https://www.zsa.io/moonlander/) & [**Kensington SlimBlade Trackball**](https://www.kensington.com/en-ca/p/products/control/trackballs/slimblade-trackball/)
 - 🖨️ I’m currently 3D printing **knobs and stands for the Teenage Engineering OP-Z**
-- 🎮 I’m currently playing **nothing**
-- 🚐 I’m currently **climbing a lot outdoors** and **partying at various electronic music festivals**
+- 🎮 I’m currently playing **Beat Saber VR**
+- 🚐 I’m currently **climbing a lot of ice** and **hanging out with my pet snakes**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
