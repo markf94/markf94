@@ -14,7 +14,7 @@ Quick facts:
 
 Snapshot:
 
-- 💻 My current favourite open source project is **[VCVRack - A virtual modular Eurorack synthesizer](https://github.com/VCVRack/Rack)**
+- 💻 My current favourite open source project is **[InvokeAI -The best AI image generation platform]([https://github.com/VCVRack/Rack](https://github.com/invoke-ai/InvokeAI))**
 - 🌱 I’m currently learning: **Colemak-DHm**, **highlining**, **Vietnamese**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
