@@ -21,6 +21,6 @@ Snapshot:
 - ⌨️ My work setup consists of: [**Moonlander MK 1 split keyboard**](https://www.zsa.io/moonlander/) & [**Kensington SlimBlade Trackball**](https://www.kensington.com/en-ca/p/products/control/trackballs/slimblade-trackball/)
 - 🖨️ I’m currently 3D printing **knobs and stands for the Teenage Engineering OP-Z**
 - 🎮 I’m currently playing **Beat Saber VR**
-- 🚐 I’m currently **climbing a lot of ice** and **hanging out with my pet snakes**
+- 🚐 I’m currently **climbing a lot of rock** and **hanging out with my pet snakes**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
