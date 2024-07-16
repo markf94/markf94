@@ -15,7 +15,7 @@ Quick facts:
 Snapshot:
 
 - 💻 My current favourite open source project is **[Polaris - Benchmarks for AI models in drug discovery](https://github.com/polaris-hub/polaris)**
-- 🌱 I’m currently learning: **wetlab automation**, **Vietnamese**, **trad climbing**
+- 🌱 I’m currently learning: **peptide diffusion models**, **Vietnamese**, **trad climbing**
 - 👯 I’m looking to collaborate on **Quantum Open Source Software** and **Protein Drug Discovery**
 - 🤔 I’m looking for help with some **QOSF projects revolving around quantum software**
 - ⌨️ My work setup consists of: [**Moonlander MK 1 split keyboard**](https://www.zsa.io/moonlander/) & [**Kensington SlimBlade Trackball**](https://www.kensington.com/en-ca/p/products/control/trackballs/slimblade-trackball/)
