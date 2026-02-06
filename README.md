@@ -22,9 +22,9 @@ Snapshot:
 - 💻 My current favourite open source project is **[Polaris - Benchmarks for AI models in drug discovery](https://github.com/polaris-hub/polaris)**
 - 🌱 I’m currently learning: **modular synthesis**, **Vietnamese**, **trad climbing**
 - 👯 I’m looking to collaborate on **Protein Drug Discovery** and **Quantum Open Source Software**
-- ⌨️ My work setup consists of: [Warp Terminal](https://www.warp.dev/) + [Cursor](https://cursor.com) + [ralph](https://github.com/snarktank/ralph)
+- ⌨️ My work setup consists of: [Warp Terminal](https://www.warp.dev/) + [Claude Code](https://code.claude.com/docs/en/overview) + [ralph](https://github.com/snarktank/ralph)
 - 🖨️ I’m currently 3D printing **parts for my camper van**
-- 🎮 I’m currently playing **Split Fiction**
+- 🎮 I’m currently playing **ARC Raiders**
 - 🚐 I’m currently **climbing frozen waterfalls** and **making music on my modular synthesizer**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
