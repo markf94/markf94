@@ -9,7 +9,7 @@ I'm a scientific ML leader and entrepreneur with a background in theoretical phy
 
 My work focuses on generative models for proteins and peptides, molecular property prediction, multi-property optimization, and scalable production ML systems for drug discovery. At ProteinQure, I work closely with a multidisciplinary team on proprietary ML models for peptide drug delivery and discovery, spanning model development, optimization, experimental validation and real-world experimental integration.
 
-Technically, I spend time on evolutionary algorithms (using [deap](https://github.com/DEAP/deap)), Bayesian optimization, diffusion-based generative models (e.g. [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion), [BindCraft](https://github.com/martinpacesa/BindCraft)), and custom ML tooling for scientific workflows. My MSc research explored learning curves of quantum kernel machines, using quantum–classical hybrid models built with built with [PennyLane](https://github.com/PennyLaneAI/pennylane) and [TensorFlow Quantum](https://github.com/tensorflow/quantum).
+Technically, I spend time on diffusion-based generative models (e.g. [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion), [BindCraft](https://github.com/martinpacesa/BindCraft)) with steering & guidance, multi-objective optimization algorithms such as Monte Carlo Tree Search or evolutionary algorithms (using [deap](https://github.com/DEAP/deap)), Bayesian optimization, and custom ML tooling for scientific workflows. My MSc research explored learning curves of quantum kernel machines, using quantum–classical hybrid models built with built with [PennyLane](https://github.com/PennyLaneAI/pennylane) and [TensorFlow Quantum](https://github.com/tensorflow/quantum).
 
 Quick facts:
 
@@ -23,7 +23,6 @@ Snapshot:
 - 🌱 I’m currently learning: **modular synthesis**, **Vietnamese**, **trad climbing**
 - 👯 I’m looking to collaborate on **Protein Drug Discovery** and **Quantum Open Source Software**
 - ⌨️ My work setup consists of: [Warp Terminal](https://www.warp.dev/) + [Claude Code](https://code.claude.com/docs/en/overview) + [ralph](https://github.com/snarktank/ralph)
-- 🖨️ I’m currently 3D printing **parts for my camper van**
 - 🎮 I’m currently playing **ARC Raiders**
 - 🚐 I’m currently **climbing frozen waterfalls** and **making music on my modular synthesizer**
 
