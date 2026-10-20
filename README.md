@@ -19,7 +19,7 @@ Quick facts:
 
 Snapshot:
 
-- 💻 My current favourite open source project is **[Polaris - Benchmarks for AI models in drug discovery](https://github.com/polaris-hub/polaris)**
+- 💻 My current favourite open source project is **[AtomWeaver, an inverse folding model for peptide design](https://github.com/ProteinQure/atomweaver)**
 - 🌱 I’m currently learning: **how to complete an Ironman**, **modular synthesis**, **Vietnamese**
 - 👯 I’m looking to collaborate on **Protein Drug Discovery** and **Quantum Open Source Software**
 - ⌨️ My work setup consists of: [Warp Terminal](https://www.warp.dev/) + [Claude Code](https://code.claude.com/docs/en/overview) + [ralph](https://github.com/snarktank/ralph)
