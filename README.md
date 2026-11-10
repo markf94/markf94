@@ -22,8 +22,8 @@ Snapshot:
 - 💻 My current favourite open source project is **[AtomWeaver, an inverse folding model for peptide design](https://github.com/ProteinQure/atomweaver)**
 - 🌱 I’m currently learning: **how to complete an Ironman**, **modular synthesis**, **Vietnamese**
 - 👯 I’m looking to collaborate on **Protein Drug Discovery** and **Quantum Open Source Software**
-- ⌨️ My work setup consists of: [Warp Terminal](https://www.warp.dev/) + [Claude Code](https://code.claude.com/docs/en/overview) + [ralph](https://github.com/snarktank/ralph)
-- 🎮 I’m currently playing **Split Fiction**
+- ⌨️ My work setup consists of: [Warp Terminal](https://www.warp.dev/) + [herdr](https://github.com/herdrdev/herdr) + [voxtype](https://github.com/peteonrails/voxtype)
+- 📖 I’m currently reading **Pachinko** and **Crooked Teeth**
 - 🚐 I’m currently **competing in triathlons** and **making music on my modular synthesizer**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_fingerhuth?style=social)](https://twitter.com/mark_fingerhuth)
